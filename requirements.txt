@@ -1,0 +1,4 @@
+streamlit
+pandas
+matplotlib
+sqlite3 ; this is optional, built-in in Python but harmless

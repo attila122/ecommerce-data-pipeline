@@ -1,4 +1,8 @@
 streamlit
 pandas
 matplotlib
+<<<<<<< HEAD
 
+=======
+sqlite3 ; this is optional, built-in in Python but harmless
+>>>>>>> 3e018e7fb4b39774f88d4ce4a5c40c9a4be3309f
